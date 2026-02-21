@@ -1,21 +1,31 @@
-# Snake Game - Doraemon Edition
+# Snake Game - Doremon Edition 🐍🎵
 
-Snake Game Doraemon Edition is a fun browser-based game inspired by the Doremon theme. 
-The game includes background sound effects and interactive gameplay for an engaging experience.
+Snake Game Doremon Edition is a Python-based game built using Pygame.  
+The game features Doremon theme sound effects and interactive gameplay.
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
+## 🛠️ Technologies Used
+- Python
+- Pygame
 
-## Features
+## ✨ Features
 - Score tracking system
 - Collision detection
 - Smooth keyboard controls
 - Game over logic
-- Doraemon theme sound effects 🎵
+- Doremon theme background music 🎵
 
-## How to Play
-Use arrow keys to control the snake.
-Eat food to increase your score.
-Avoid hitting the walls or yourself.
+## ▶ Requirements
+- Python installed
+- Pygame library
+
+## ⚙ Installation
+
+Install pygame using:
+
+pip install pygame
+
+## ▶ How to Run
+
+Run the following command:
+
+python main.py
